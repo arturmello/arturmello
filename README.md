@@ -8,11 +8,14 @@ Olá, me chamo Artur Mello!<br><br>Bem vindos ao meu perfil no GitHub!<br><br>-�
 # 💻 Tech Stack:
 <div style = "display: inline_block"><br>
           <img align="center" alt="Artur-Kotlin " height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
+          <img align="center" alt="Artur-AndroidStudio " height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg"/>
           <img align="center" alt="Artur-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
           <img align="center" alt="Artur-CSS" height="30" width="40" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
           <img align="center" alt="Artur-JS " height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />        
           <img align="center" alt="Artur-C++ " height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+          <img align="center" alt="Artur-C++ " height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+          
                      
 ##
 
