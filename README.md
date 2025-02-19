@@ -3,7 +3,7 @@ I'm an English and Computer Science student!
 
 🌱 Improving at Kotlin | Android
 
-🥅 2024 Plans: Improve in Kotlin and Android development in general
+🥅 2025 Plans: Improve in Kotlin and Android development in general
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@_euart) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/artur-mello-gon%C3%A7alves-7bb90520a/)[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:arturmellog19@gmail.com)
