@@ -11,9 +11,10 @@ I'm an English and Computer Science student!
 # 💻 Tech Stack:
 <div style = "display: inline_block"><br>
           <img align="center" alt="Artur-Kotlin " height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
+          <img align="center" alt="Artur-JetpackCompose " height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetpackcompose/jetpackcompose-original.svg"/>
           <img align="center" alt="Artur-AndroidStudio " height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg"/>
-          <img align="center" alt="Artur-C++ " height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-          <img align="center" alt="Artur-C++ " height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+          <img align="center" alt="Artur-Git " height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+          <img align="center" alt="Artur-Firebase " height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" />
           
                      
 ##
